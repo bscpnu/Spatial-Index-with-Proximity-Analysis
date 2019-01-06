@@ -52,11 +52,11 @@ Figure 10 depicted experiment by using point [14,3] as input, whereas the proxim
 
 ![alt text](figure10.png)
 
-###Conclusion
+### Conclusion
 Overall, Hilbert-curve and Z-Order is better approach in preserving proximity than Column-wise approach. Because Z-Order has big jump cases, it means it has more drawbacks if we compare with Hilbert-curve. Hence the best approach is Hilbert-curve. Moreover, through algebraic analysis, and through computer simulation, the Hilbert-curve performed as well as or better than Column-wise or Z-Order [1].
 
 
-###Reference
+### Reference
 [1]. Jagadish, H.V, “Linear Clustering of Objects with Multiple Attributes,” AT&T Bell Laboratories,
 Murray Hill, New Jersey. http://web.eecs.umich.edu/~jag/papers/J90.pdf
 
