@@ -1,6 +1,6 @@
 # Spatial Index with Proximity Analysis
 
-###I created this code from the scratch for understanding how the spatial index works. The analysis is explained as follow:
+### I created this code from the scratch for understanding how the spatial index works. The analysis is explained as follow:
 
 Spatial database stores information related to objects in space. Because the objects are commonly in a multi-dimensional form, it’s necessary to map a multidimensional space onto a one-dimensional space. The indexing goal is to order the points in such a way that points that are near each other in space are near each other in the index. The most common spatial index methods namely Column-wise, Hilbert-curve, and Z-Order. All of those methods have advantages and disadvantages in particular condition. Hence, this study aims to elaborate them.
 ### 1. Column-Wise
